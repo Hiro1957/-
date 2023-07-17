@@ -17,6 +17,7 @@
 <li>PHP★★</li>
 <li>Python★</li>
 <li>Java★</li>
+<li>laravel★</li>
 <li>web検証★★</li>
 <li>web運用★★</li>
 
