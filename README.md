@@ -42,6 +42,7 @@
 
 <h2>顧客管理システム</h2>
 <li>https://github.com/hiro1957/customer</li>
+<li>説明：ユーザーごとに顧客の基本登録が可能で、カレンダーに顧客との予定を入れられる機能がある。</li>
 
 <h2>CONTACT</h2>
 <li>ha327' at 'hotmail.co.jp</li>
