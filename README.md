@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Rakus</title>
-    
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-<!--bootstrapによるレイアウト作成 -->
-<div class="p-3 mb-2 bg-secondary text-white">.<h1>ポートフォリオ</h1></div>
 
 
 <h2>PROFILE</h2>
