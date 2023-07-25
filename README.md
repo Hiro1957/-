@@ -38,8 +38,9 @@
 
 <h2>保有資格</h2>
 <li>ITパスポート</li>
-<li>ITIL</li>
+<li>PHP7技術者認定初級試験</li>
 <li>TOEIC675点</li>
+<li>ITILファンデーション</li>
 
 <h2>work</h2>
 <h3>顧客管理システム(php)</h3>
