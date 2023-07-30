@@ -11,20 +11,20 @@
 <li>html★★</li>
 <li>css★★</li>
 <li>bootstrap★★</li>
-<li>react★</li>
+<li>react(node.js)★</li>
 <li>javascript★★</li>
 <li>GAS★</li>
 <li>VBA★★</li>
 <li>PHP★★</li>
 <li>Python★</li>
-<li>Java★</li>
+<li>Java(JSP/servlet)★</li>
 <li>laravel★</li>
 <li>web検証★★</li>
 <li>web運用★★</li>
 
 <h3>DB</h3>
-<li>PostgreSQL★</li>
-<li>mysql★</li>
+<li>PostgreSQL(pgadmin)★</li>
+<li>mysql(phpmyadminなど)★</li>
 
 <h3>インフラ</h3>
 <li>apache構築★</li>
