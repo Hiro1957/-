@@ -11,8 +11,9 @@
 <li>html★★</li>
 <li>css★★</li>
 <li>bootstrap★★</li>
+<li>react★</li>
 <li>javascript★★</li>
-<li>GAS(Google App Script)★</li>
+<li>GAS★</li>
 <li>VBA★★</li>
 <li>PHP★★</li>
 <li>Python★</li>
